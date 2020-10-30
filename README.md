@@ -13,5 +13,7 @@ Dataset : https://www.kaggle.com/vijayuv/onlineretail
 
 # RFM Analysis for Customer Segmentation
 RFM analysis is a data-driven customer behavior segmentation methodology in which RFM stands for recency ,frequency, and monetary value.
+
 The concept is to segment customers based on when their last purchase was (Recency), how many times they have purchased in the past (Frequency), and how much they have spent (Monetary).
+
 RFM analysis enables personalized marketing, improves satisfaction and helps marketers to develop unique, appropriate deals for the right customer groups.
