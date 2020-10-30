@@ -1,6 +1,7 @@
 # RFM (Recency, Frequency, Monetary) Analysis on an Online Retail Customers using K-Means Clustering with Python
 
 The Online Retail data contains customer purchasing history. Including CustomerID, Stock Code, Item Description, Quantity, Unit Price, Invoice Date, and Country.
+
 Dataset : https://www.kaggle.com/vijayuv/onlineretail
 
 # Business Understanding
@@ -9,3 +10,8 @@ Dataset : https://www.kaggle.com/vijayuv/onlineretail
 **QUESTION** : How to understand customer behaviour to plan marketing strategy accordingly?
 
 **MEASURE** : A well clustered customer basen on basic data that we have.
+
+# RFM Analysis for Customer Segmentation
+RFM analysis enables personalized marketing, improves satisfaction and helps marketers to develop unique, appropriate deals for the right customer groups.
+
+RFM analysis is a data-driven customer behavior segmentation methodology in which RFM stands for recency ,frequency, and monetary value.
