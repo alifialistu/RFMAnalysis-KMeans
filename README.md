@@ -4,5 +4,7 @@ RFM (Recency, Frequency, Monetary) analysis of an online retail customers using 
 The Online Retail data contains customer purchasing history.
 Including CustomerID, Stock Code, Item Description, Quantity,
 Unit Price, Invoice Date, and Country.
-https://www.kaggle.com/vijayuv/onlineretail
 
+source dataset : https://www.kaggle.com/vijayuv/onlineretail
+
+# Business Understanding
